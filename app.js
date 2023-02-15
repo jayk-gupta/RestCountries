@@ -42,9 +42,10 @@ const getCountryData = function (country) {
     img.src = data.flags.svg;
     name.textContent = data.name.common;
     region.textContent =data.region;
-     pop.textContent =data.population;
-    lang.textContent =Object.keys(data.languages);
-    curr.textContent = Object.keys(data.currencies);
+    pop.textContent = "👨‍👨‍👧‍👧 "+data.population;
+    lang.textContent ="📝 "+Object.keys(data.languages);
+    curr.textContent = "💰 "+Object.keys(data.currencies);
+    
     
     countriesContainer.classList.add('hide');
     countriesContainer.removeChild(country);
