@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "jayk-gupta",
+      "name": "Jay Kumar Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/100681165?v=4",
+      "profile": "https://github.com/jayk-gupta",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "RestCountries",
+  "projectOwner": "jayk-gupta"
+}
