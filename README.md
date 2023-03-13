@@ -14,3 +14,6 @@ It is a small project created using javascript and restcountries API to get info
 - Javascript
 
 - restcountries api
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
